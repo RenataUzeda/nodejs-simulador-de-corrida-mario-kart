@@ -1,4 +1,6 @@
 <h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
+<h4>Projeto desenvolvido na Formação Node.js da DIO, não consegui dar um fork no projeto original, mas segue link para conferir: https://github.com/digitalinnovationone/formacao-nodejs/tree/main/03-projeto-mario-kart </h4>
+<br>
 
   <table>
         <tr>
